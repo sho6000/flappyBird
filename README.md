@@ -2,7 +2,7 @@
 
 # Flappy Bird Game in C
 
-**Author**: Abdulrehman (BEIS-03)
+**Author**: Shoun, Bharat, Abhishek (1MCA B)
 
 ## Description
 
