@@ -15,17 +15,10 @@ The game continuously updates, and the bird falls downward unless the player mak
 - **Basic game mechanics**: The bird moves through the screen, avoiding obstacles.
 - **Pillars**: There are three pillars with gaps at different heights.
 - **Score Calculation**: Players earn points each time they pass through the gaps between the pillars.
-- **Simple Controls**: 
-  - **w** or **spacebar**: Fly upward
-  - **a**: Move left
-  - **d**: Move right
-  - **s**: Move downward
-- **Game Over Condition**: The game ends when the bird collides with a pillar or the top/bottom boundary of the screen.
 
 ## Controls
 
 - Press **spacebar** to make the bird fly upwards.
-- Use **a** to move left, **d** to move right, and **s** to move downward.
 - The bird falls automatically when no input is detected.
 
 ## How to Run the Game
@@ -55,7 +48,7 @@ The game continuously updates, and the bird falls downward unless the player mak
 
 When you start the game, you will see the following instructions:
 
-```
+[![Watch the video](https://raw.githubusercontent.com/sho6000/flappyBird/main/assets/tn.png)](https://raw.githubusercontent.com/sho6000/flappyBird/main/assets/fbvid.mp4)
 Hi!
 This is the flappy bird game.
 You have to pass through the spaces between the tunnels.
