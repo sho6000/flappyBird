@@ -48,7 +48,8 @@ The game continuously updates, and the bird falls downward unless the player mak
 
 When you start the game, you will see the following instructions:
 
-[![Watch the video](https://github.com/sho6000/flappyBird/blob/main/tn.png)](https://github.com/sho6000/flappyBird/blob/main/fbvid.mp4)
+![Flappy Bird GIF](https://raw.githubusercontent.com/sho6000/flappyBird/main/flappybird.gif)
+
 ```
 Hi!
 This is the flappy bird game.
