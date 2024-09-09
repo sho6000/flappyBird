@@ -48,7 +48,7 @@ The game continuously updates, and the bird falls downward unless the player mak
 
 When you start the game, you will see the following instructions:
 
-[![Watch the video](https://raw.githubusercontent.com/sho6000/flappyBird/main/assets/tn.png)](https://raw.githubusercontent.com/sho6000/flappyBird/main/assets/fbvid.mp4)
+[![Watch the video](https://github.com/sho6000/flappyBird/blob/main/tn.png)](https://github.com/sho6000/flappyBird/blob/main/fbvid.mp4)
 Hi!
 This is the flappy bird game.
 You have to pass through the spaces between the tunnels.
